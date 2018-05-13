@@ -1,5 +1,4 @@
-﻿
-open System
+﻿open System
 open RabbitMQ.Client
 open RabbitMQ.Client.Events
 open System.Text
